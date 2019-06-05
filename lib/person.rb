@@ -7,7 +7,6 @@ def name
 
 def job 
   @job
- end
 end 
 
 def name=(name)
@@ -18,5 +17,5 @@ def job=(job)
   @job=job 
   end 
  end
-end
+
 
