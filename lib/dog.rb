@@ -1,4 +1,4 @@
 class Dog 
 end 
 
-def name
+def name=()
