@@ -7,5 +7,6 @@ def name
 
 def job 
   @job
-end
+ end
+end 
 
